@@ -51,6 +51,8 @@ ArgentOS is a **personal AI operating system**. It runs on your hardware, speaks
 
 ### Install
 
+**Prerequisite:** [Homebrew](https://brew.sh) (macOS)
+
 ```bash
 curl -fsSL https://argentos.ai/install.sh | bash
 ```
